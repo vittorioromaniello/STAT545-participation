@@ -1,8 +1,10 @@
-Here is the url to STAT545 homepage repo:
+# Helpful Links
 
-https://github.com/STAT545-UBC/STAT545-home
+Here is the url to **STAT545 homepage** repo:
 
-Here is its corresponding organization account:
+[STAT 545 HOME](https://github.com/STAT545-UBC/STAT545-home)
+
+Here is its corresponding *organization* account:
 
 https://github.com/STAT545-UBC
 
@@ -13,3 +15,5 @@ https://github.com/vittorioromaniello/STAT545-participation
 Here is the url to my user account:
 
 https://github.com/vittorioromaniello
+
+
