@@ -11,7 +11,7 @@ Class meetings files
 ----------------------------------------------------
 Class Meeting #   | File
 ----------------------------|
-1 | [navigating_github.html](https://vittorioromaniello.github.io/STAT545-participation/Class Meeting 1/navigating_github.html)
+1 | [!navigating_github.html](https://vittorioromaniello.github.io/STAT545-participation/Class Meeting 1/navigating_github.html)
 2 | [cm002-r_exploration.R](https://vittorioromaniello.github.io/STAT545-participation/Class Meeting 2/cm002-r_exploration.R)
 3 | [navigating_github.html](https://vittorioromaniello.github.io/STAT545-participation/Class Meeting 3/navigating_github.html), [rmd_exploration_slides.html](https://vittorioromaniello.github.io/STAT545-participation/Class Meeting 3/rmd_exploration_slides.html), [rmd_exploration.html](https://vittorioromaniello.github.io/STAT545-participation/Class Meeting 3/rmd_exploration.html)
 4 | 
