@@ -19,7 +19,7 @@ Here is a table containing the links to each of the files.
 | 8 |[cm008-exercise.html](https://vittorioromaniello.github.io/STAT545-participation/Class%20Meeting%208/cm008-exercise.html)|
 | 9 |[cm009-exercise.html](https://vittorioromaniello.github.io/STAT545-participation/Class%20Meeting%209/cm009-exercise.html)|
 | 10|[cm0010-exercise.html](https://vittorioromaniello.github.io/STAT545-participation/Class%20Meeting%2010/cm010-exercise.html)|
-| 11|[gapminder_test.R](https://vittorioromaniello.github.io/STAT545-participation/Class%20Meeting%2011/gapminder_test.R), [mri_data_example.R]https://vittorioromaniello.github.io/STAT545-participation/Class%20Meeting%2011/mri_data_example.R), [cm011_demo.R]https://vittorioromaniello.github.io/STAT545-participation/Class%20Meeting%2011/cm011_demo.R) |
+| 11|[gapminder_test.R](https://vittorioromaniello.github.io/STAT545-participation/Class%20Meeting%2011/gapminder_test.R), [mri_data_example.R](https://vittorioromaniello.github.io/STAT545-participation/Class%20Meeting%2011/mri_data_example.R), [cm011_demo.R](https://vittorioromaniello.github.io/STAT545-participation/Class%20Meeting%2011/cm011_demo.R) |
 | 12|[cm012-exercise.html](https://vittorioromaniello.github.io/STAT545-participation/Class%20Meeting%2012/cm012-exercise.html)|
 | 13|[cm013-exercise.html](https://vittorioromaniello.github.io/STAT545-participation/Class%20Meeting%2013/cm013-exercise.html)|
 | 14|[cm014-exercise.html](https://vittorioromaniello.github.io/STAT545-participation/Class%20Meeting%2014/cm014-exercise.html)|
